@@ -1,4 +1,4 @@
-# NLP Assignment
+# NLP Assignments
 This is part of the NLP Assignment for the course for IIITMK
 The assignments done so far are
 
